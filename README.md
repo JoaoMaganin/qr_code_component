@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+link: https://qr-code-component-five-chi.vercel.app/
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
